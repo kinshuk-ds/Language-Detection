@@ -18,4 +18,24 @@ Finally, I used Gradio to create a user interface for the model, allowing users 
 the language of the text. This makes the model accessible to a wider audience and makes it easier to test its accuracy in real-world situations.
 
 Overall, this project was a great learning experience in the field of NLP and machine learning, and I am proud to have built a language 
-detection model that can accurately identify text in 18 different languages.
+detection model that can accurately identify text in 18 different languages which are mentioned below:
+
+1) English
+2) Malayalam
+3) Hindi
+4) Tamil
+5) Kannada
+6) French
+7) Spanish
+8) Portuguese
+9) Italian
+10) Russian
+11) Sweedish
+12) Dutch
+13) Arabic
+14) Turkish
+15) German
+16) Danish
+17) Greek
+18) Hindi
+
